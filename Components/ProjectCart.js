@@ -6,9 +6,9 @@ import Rest from '../assets/Images/RestServices.jpg'
 import CarsHup from '../assets/Images/carshups.jpg'
 const ProjectCart = () => {
   return (
-    <div className="lg:flex md:flex sm:grid  lg:gap-5 md:gap-5 sm:gap-2">
-    <div className="flex">
-      <div className="flex grid-cols-4 gap-4">
+    <div className="">
+    <div className="">
+      <div className="lg:flex md:flex sm:grid  lg:gap-8 md:gap-8 sm:gap-8 ">
         <a  href="" className="block">
           <Image
             alt="Signage"
