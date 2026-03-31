@@ -1,37 +1,102 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D976C,100:93F9B9&height=200&section=header&text=BeniTanıyın&fontSize=40&fontAlignY=35"/>
+</p>
 
-## Getting Started
+<h1 align="center">🚀 Merhaba, ben Ali Akkuş</h1>
+<p align="center">Yazılım geliştirici | Teknoloji tutkunu | Yaratıcı projeler</p>
 
-First, run the development server:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Mükemmel+arayüzler+tasarlarım;Modern+uygulamalar+geliştiririm;Kod+ve+kahve+☕;Sürekli+gelişiyorum" />
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🌟 Hakkımda
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Bilgisayarlara ve kahveye tutkuyla bağlıyım.  
+Modern arayüzler ve güçlü backend sistemleri geliştiriyorum.  
+Seyahat, fotoğrafçılık ve video oyunları da hobilerim arasında.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+---
 
-## Learn More
+## 💼 Kullandığım Teknolojiler
 
-To learn more about Next.js, take a look at the following resources:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,redux,tailwind,html,css,python,postgres,fastapi,git" />
+</p>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 📊 GitHub İstatistikleri
 
-## Deploy on Vercel
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xaliiakkus&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
+</p>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaliiakkus&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
+</p>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# myPortfilo
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=xaliiakkus&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Ziyaretçi Sayacı
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xaliiakkus&label=Profil+Görüntülenme&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🔗 Bana Ulaşın
+
+<p align="center">
+  <a href="mailto:mail@xaliakkus@gmail.com">
+    <img src="https://img.shields.io/badge/E-posta-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/xaliakkus">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/xaliiakkus">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🚀 Projelerim
+
+<p align="center">
+  <b>sales.eu.com</b><br/>
+  <a href="https://sales.eu.com/" target="_blank">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjN0cGVwNnRlOW9jZXl3ZGloaTl6bmpnZG50YzI4aWk5NTRseXpiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="400"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>heimdal.us.com</b><br/>
+  <a href="https://heimdal.us.com/" target="_blank">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTNzeGNoN2plb2IwZWlvczJhc3FlZzZncm44Z3FtempsYjl3NzZ5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="400"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>200soru.uk.com</b><br/>
+  <a href="https://200soru.uk.com/" target="_blank">
+    <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="400"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Profilime göz attığın için teşekkürler!
+</p>
